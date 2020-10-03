@@ -1,4 +1,4 @@
-<p><em>Estudante de Tecnologia em Análise e Desenvolvimento no <a href="https://www.udesc.br/cct/home">CCT-UDESC</a></br>
+<p><em>Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no <a href="https://www.udesc.br/cct/home">CCT-UDESC</a></br>
 <p><em>Desenvolvedor FullStack na <a href="http://quantich.com.br/">Quantich Tecnologia</a></br>
 </em></p>
 
