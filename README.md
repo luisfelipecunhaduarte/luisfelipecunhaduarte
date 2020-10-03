@@ -10,14 +10,17 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "VueJS"],
-         css: ["Bootstrap", "Material Design", "Vuetify"]
+         css: ["Bootstrap", "Vuetify"]
       },
       backEnd: {
          java: ["Spring", "Hibernate", "JPA"],
          misc: ["Bash", "Shell Script"]
       },
+      devOps: ["AWS", "Docker"],
       databases: ["Oracle", "PostgreSQL"],
+      misc: ["firebase"],
    },
+   architecture: ["Single page applications", "Clean Architecture", "MVC"],
 };
 ```
 </br></br>
