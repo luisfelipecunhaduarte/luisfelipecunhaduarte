@@ -11,9 +11,9 @@ on:
     uses: athul/waka-readme@v0.1.5
     with:
       # GitHub access token with Repo scope
-      GH_TOKEN: $ {{GH_TOKEN}}  # default is ${{ github.token }}
+      GH_TOKEN: $ {{ secrets.GH_TOKEN}}  # default is ${{ github.token }}
       # Your Wakatime API Key
-      WAKATIME_API_KEY: $ {{WAKATIME_API_KEY}}
+      WAKATIME_API_KEY: $ {{secrets.WAKATIME_API_KEY}}
       # Your GitHub repository
       REPOSITORY: ${{ github.repository }} # optional, default is ${{ github.repository }}
       # Displays the week number and days in Readme as title
