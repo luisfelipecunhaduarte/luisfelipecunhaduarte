@@ -9,7 +9,7 @@ const aboutMe = {
    code: [ Javascript, Typescript, HTML, CSS, Java ],
    technologies: {
       frontEnd: {
-         js: [""VueJS"],
+         js: ["VueJS"],
          css: ["Vuetify"]
       },
       backEnd: {
