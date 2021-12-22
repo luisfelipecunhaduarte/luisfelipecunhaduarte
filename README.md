@@ -16,7 +16,7 @@ const aboutMe = {
          java: ["Spring", "Hibernate", "JPA"],
          misc: ["Bash", "Shell Script"]
       },
-      devOps: ["AWS", "Docker"],
+      devOps: ["AWS", "Docker", "Kubernetes"],
       databases: ["Oracle", "PostgreSQL", "MySQL"],
       misc: ["firebase"],
    },
