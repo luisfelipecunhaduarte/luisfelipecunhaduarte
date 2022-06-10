@@ -1,12 +1,12 @@
 <p><em>Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no <a href="https://www.udesc.br/cct/home">CCT-UDESC</a></br>
-<p><em>Desenvolvedor Backend na <a href="https://www.totvs.com/">TOTVS</a></br>
+<p><em>Site Reliability Engineer na <a href="https://www.totvs.com/">TOTVS</a></br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "Ele" | "he",
-   code: [ Javascript, Typescript, HTML, CSS, Java ],
+   code: [ Javascript, Typescript, HTML, CSS, Java, Golang, Python ],
    technologies: {
       frontEnd: {
          js: ["VueJS"],
