@@ -1,4 +1,3 @@
-<p><em>Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no <a href="https://www.udesc.br/cct/home">CCT-UDESC</a></br>
 <p><em>Site Reliability Engineer na <a href="https://www.totvs.com/">TOTVS</a></br>
 </em></p>
 
