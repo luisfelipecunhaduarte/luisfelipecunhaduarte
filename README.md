@@ -26,9 +26,6 @@ const aboutMe = {
 [![wakatime](https://wakatime.com/badge/user/a3a8ed06-d304-4d6b-bc86-4adc418cdea7.svg)](https://wakatime.com/@a3a8ed06-d304-4d6b-bc86-4adc418cdea7)
 <h2>💻 Some stats 💻</h2>
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfelipecunhaduarte&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 
 ```text
