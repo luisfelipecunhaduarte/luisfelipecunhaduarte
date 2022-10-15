@@ -29,7 +29,7 @@ const aboutMe = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2020 - To: 12 October 2022
+From: 05 June 2020 - To: 13 October 2022
 
 Total Time: 1,927 hrs 28 mins
 
