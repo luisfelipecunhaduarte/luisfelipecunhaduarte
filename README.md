@@ -29,11 +29,11 @@ const aboutMe = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2020 - To: 09 August 2023
+From: 05 June 2020 - To: 10 August 2023
 
-Total Time: 2,266 hrs 28 mins
+Total Time: 2,266 hrs 41 mins
 
-Java                                   939 hrs 22 mins ██████████▒░░░░░░░░░░░░░░   41.45 %
+Java                                   939 hrs 35 mins ██████████▒░░░░░░░░░░░░░░   41.45 %
 YAML                                   273 hrs 2 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
 SQL                                    251 hrs 59 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 Vue.js                                 197 hrs 29 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
