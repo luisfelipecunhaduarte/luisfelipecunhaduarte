@@ -29,15 +29,15 @@ const aboutMe = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2020 - To: 03 September 2025
+From: 05 June 2020 - To: 04 September 2025
 
-Total Time: 3,188 hrs 4 mins
+Total Time: 3,189 hrs
 
-Java                                   954 hrs 11 mins ███████▒░░░░░░░░░░░░░░░░░   29.93 %
-YAML                                   704 hrs 38 mins █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Java                                   954 hrs 11 mins ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+YAML                                   704 hrs 40 mins █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
 SQL                                    252 hrs 31 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
 Vue.js                                 205 hrs 33 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Terraform                              194 hrs 56 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Terraform                              195 hrs 42 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
